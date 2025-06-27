@@ -4,8 +4,8 @@ alias plz=sudo
 alias vz="vim ~/.zshrc"
 alias vv="vim ~/.vimrc"
 alias svba='source venv/bin/activate'
-
 alias sz="source ~/.zshrc"
+
 alias gs="git status"
 alias gd="git diff"
 alias gc="git commit"
